@@ -3,7 +3,7 @@
 > *"It’s still magic, even if you know how it’s done."*  
 > — Terry Pratchett (und wahrscheinlich auch dein Debugger)
 
-Dies ist ein "Übungsprojekt" im Rahmen meiner Ausbildung zur Fachinformatikerin – mit Java, Verstand und ein wenig Chaosmagie.
+Dies ist ein "Übungsprojekt" im Rahmen meiner Ausbildung zur Fachinformatikerin – mit Java, Verstand und ein wenig Mathemagie.
 
 ## Inhalt
 
